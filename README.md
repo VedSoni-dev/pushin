@@ -2,7 +2,7 @@
 
 Record your screen in a browser tab, or drop in a video you already have. pushin brings it back with the camera pushing in on where the action is, framed on a background, and exports an MP4. It's a free, open-source alternative to Screen Studio that runs on Windows, Mac, Linux and ChromeOS, with nothing to install.
 
-**Live:** https://pushin.vercel.app
+**Live:** https://pushin-one.vercel.app
 
 ![The pushin editor: a recording framed on a gradient with two auto-found zooms on the timeline](docs/media/editor.jpg)
 

@@ -6,7 +6,7 @@ const sans = Geist({ subsets: ["latin"], variable: "--font-sans", display: "swap
 const mono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono", display: "swap" });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://pushin.vercel.app"),
+  metadataBase: new URL("https://pushin-one.vercel.app"),
   title: "pushin: screen recordings that zoom in on the action",
   description:
     "Record your screen in a browser tab, or drop in a video. pushin pushes the camera in where the action is, frames it on a background and exports an MP4. Free, open source, nothing to install.",
